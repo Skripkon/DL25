@@ -1,2 +1,11 @@
+# Virtual env
 .venv
+
+# Heavy data
 data/*
+
+# Logs from training
+logs
+
+# Trained models
+model_checkpoint
