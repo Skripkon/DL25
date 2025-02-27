@@ -3,9 +3,17 @@
 
 # Heavy data
 data/*
+*.csv
 
 # Logs from training
 logs
 
 # Trained models
 model_checkpoint
+*.pth
+
+# Configs
+*.pylintrc
+
+# System files
+*__pycache__
