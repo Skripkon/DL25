@@ -4,6 +4,8 @@
 # Heavy data
 data/*
 *.csv
+*.wav
+*.mid
 
 # Logs from training
 logs
