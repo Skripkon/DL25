@@ -1,4 +1,4 @@
-    vocab_size: 50304
+    vocab_size: 4289
     tie_weights: True
     mlstm_block:
       mlstm:
@@ -14,7 +14,7 @@
       feedforward:
         proj_factor: 1.3
         act_fn: gelu
-    context_length: 128
-    num_blocks: 4
-    embedding_dim: 128
+    context_length: 512
+    num_blocks: 2
+    embedding_dim: 32
     slstm_at: [1]
