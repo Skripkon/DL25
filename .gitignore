@@ -12,6 +12,7 @@ logs
 # Trained models
 model_checkpoint
 **.pth
+hw07/git-base-pokemon
 
 # Configs
 **.pylintrc
